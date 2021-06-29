@@ -1,12 +1,12 @@
 ### Hi, I'm Santan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-I am a Software Professional with good track record of around 10 Years in developing end-to-end scalble products where I have extensively used AWS, Azure clouds servies. 
+I am a Software Professional with good track record of around 10 Years in developing end-to-end scalble products where I have extensively used AWS, Azure clouds services. 
 
  Currently I am working on building serverless multi-tenant enterprise product for New York based startup in Anti-Phishing domain on Azure and involved in all design decisions. The product have won multiple awards for early stage startup. I was deeply involved in every aspect of the product since inception.
  
- My interest is in building maintainalbe and scalble systems. I have worked on over half-dozen popular Authentication System integrations and also had the apportunity to implement complete authentication service for handling all the flows with keeping security in mind for one of our established enterprise client in HVAC space based in Washington.
+ My interest is in building maintainalbe and scalble systems. I have worked on over half-dozen popular Authentication System integrations and also had the apportunity to implement complete authentication server for handling all the flows with keeping security in mind for one of our established enterprise client in HVAC space based in Washington.
 
- In my many years of servies in software industry I have worked as Database, Support, QA Automation, DevOps, Developer and Architect role. I have very wide experience in technologies and frameworks and equally comfortable with frontend and backend.
+ In my many years of servies in software industry I have worked as Database, Support, QA Automation, DevOps, Developer and Architect role. I have wide experience in technologies and frameworks and equally comfortable with frontend and backend.
 
  
  - Languages : Java, JavaScript, Python, .NET
