@@ -1,6 +1,6 @@
 ### Hi, I'm Santan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- In my current organization I have started as part of founding team at NuminoLabs and helped the company to scale to 30+ employees. I am a Software Professional with good track record of around 10 Years in developing end-to-end scalble products where I have extensively used AWS, Azure clouds servies. 
+I am a Software Professional with good track record of around 10 Years in developing end-to-end scalble products where I have extensively used AWS, Azure clouds servies. 
 
  Currently I am working on building serverless multi-tenant enterprise product for New York based startup in Anti-Phishing domain on Azure and involved in all design decisions. The product have won multiple awards for early stage startup. I was deeply involved in every aspect of the product since inception.
  
