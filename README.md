@@ -13,9 +13,3 @@ I am a Software Professional with good track record of around 10 Years in develo
  - Cloud Servies : No-SQL (Mongo, Cosmos, Dynamo) and SQL DB (MySQL, MSSQL), Queues (Server Bus, SQS), Notification Services (SNS), Logging (Appliction Insights, Cloudwatch), Authentication servies (Azure AAD, AWS Cognito, GCP Identity Platfrom,  Okta, Keycloak, other social OpenID Connect integrations), FaaS (Lambda, Azure Functions), Caching (Redis), API Gateway, Load balancer, CDN, Storage Service, KeyVault
  - Frontend : Angular, React, Flexbox, ES6
  - Other : Go continuous delivery,  Docker microservies
-
-
-## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_santanpereira)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/santan/)
-<br/>
